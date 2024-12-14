@@ -1,5 +1,5 @@
 <h1 align="center">Hi humanoid, I'm Anggi Prayitno</h1>
-<h3 align="center">Don't take me seriously, I'm just messing around</h3>
+<h3 align="center">Don't take me serious, I'm just kidding</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
