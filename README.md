@@ -57,11 +57,10 @@ I identify and report vulnerabilities such as:
 
 *(Write-ups coming soon...)*
 
-
 ### 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anggi135&show_icons=true&theme=tokyonight" width="400" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anggi135&theme=tokyonight" width="400" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?usernameanggi135&show_icons=true&theme=tokyonight" width="400" />
+  <img src="https://streak-stats.demolab.com?useranggi135&theme=tokyonight" width="400" />
 </div>
 
 
