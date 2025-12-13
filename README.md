@@ -3,16 +3,6 @@
   <h3>Cybersecurity Researcher | Bug Hunter | Offensive Security Enthusiast ⚔️</h3>
 
   <p>Focused on Web Application Security, Red Teaming, and finding real-world vulnerabilities. Active in responsible disclosure and continuously exploring deeper layers of offensive security.</p>
-
-  <a href="mailto:jagoshell@gmail.com">
-    <img src="https://img.shields.io/badge/Email-anggi%20prayitno-red?style=flat-square&logo=gmail" />
-  </a>
-  <a href="https://www.linkedin.com/in/anggi-prayitno/">
-    <img src="https://img.shields.io/badge/LinkedIn-Anggi%20Prayitno-0A66C2?style=flat-square&logo=linkedin" />
-  </a>
-  <a href="https://github.com/anggi135">
-    <img src="https://img.shields.io/badge/GitHub-anggi--prayitno-000000?style=flat-square&logo=github" />
-  </a>
 </div>
 
 
@@ -45,17 +35,6 @@ I identify and report vulnerabilities such as:
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git)
-
-
-### 🚀 Highlighted Findings
-- **Stored XSS**
-- **Redirect Loop & Header Manipulation**
-- **CORS Misconfiguration with Origin Manipulation**
-- **Sensitive Endpoint Exposure**
-- **Improper Input Validation (CWE-20)**
-- **XSS**
-
-*(Write-ups coming soon...)*
 
 ### 📊 GitHub Stats
 <div align="center">
