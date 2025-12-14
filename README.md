@@ -6,9 +6,6 @@
 </div>
 
 
-### 🌟 About Me
-I am a cybersecurity researcher with a strong focus on **offensive security**, including bug hunting, vulnerability analysis, and secure code assessments.
-
 ### 🛡️ Skills & Tools (Offensive Security)
 ![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-F37626?style=flat-square&logo=burpsuite&logoColor=white)
 ![OWASP ZAP](https://img.shields.io/badge/-OWASP%20ZAP-000000?style=flat-square&logo=owasp)
