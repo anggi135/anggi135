@@ -6,6 +6,7 @@
     Focused on Web Application Security, Passive OSINT, and Offensive Security research.  
     Actively exploring real-world vulnerabilities, responsible disclosure, and red team techniques.
   </p>
+  
 ## 🛡️ Skills & Tools (Offensive Security)
 
 ![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-F37626?style=flat-square\&logo=burpsuite\&logoColor=white)
@@ -30,10 +31,6 @@
 ## 📊 GitHub Statistics
 
 <a href="https://github.com/anggi135">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anggi135&theme=react&hide_border=true&bg_color=0D1117" />
-</a>
-
-<a href="https://github.com/anggi135">
   <img src="https://github-readme-stats.vercel.app/api?username=anggi135&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
 </a>
 
@@ -41,8 +38,6 @@
 
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anggi135&layout=compact&langs_count=10&theme=react&hide_border=true&bg_color=0D1117" />
-
-<br/><br/>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square\&logo=java\&logoColor=white)
